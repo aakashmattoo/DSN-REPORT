@@ -1,8 +1,7 @@
 <img src = "GAP FINAL.png" alt="WELCOME">
+<img src = "GAP1.png" alt="WELCOME">
 
-<p align="center">
-  <img width="3000" src="GAP FINAL.png">
-</p>
+
 
 ### Support or Contact
 
